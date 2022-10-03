@@ -1,0 +1,159 @@
+.zero{
+   
+
+position: absolute;
+width: 112px;
+height: 66px;
+left: 121px;
+top: 21px;
+
+background: url(logo_mobile_black.png);
+
+}
+.one{
+   
+
+position: absolute;
+width: 130px;
+height: 32px;
+left: 151px;
+top: 187px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115%;
+
+
+color: #000000;
+
+
+}
+.two{
+    /* globe */
+
+position: absolute;
+width: 22px;
+height: 21px;
+left: 121px;
+top: 184px;
+
+background: url(globe.png);
+
+}
+.three{
+   
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 306px;
+top: 183px;
+
+background: url(img_135744.png);
+
+}
+.four{
+    /* 18 часов */
+
+position: absolute;
+width: 130px;
+height: 32px;
+left: 338px;
+top: 187px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.five{
+    /* calendar_2 */
+
+position: absolute;
+width: 20px;
+height: 22px;
+left: 467px;
+top: 183px;
+
+background: url(calendar_2.png);
+
+}
+.six{
+    /* 8 сентября */
+
+position: absolute;
+width: 130px;
+height: 32px;
+left: 500px;
+top: 187px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 115%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.seven{
+    /* Как смотреть кино */
+
+position: absolute;
+width: 628px;
+height: 190px;
+left: 122px;
+top: 248px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 101.38%;
+/* or 81px */
+
+color: #000000;
+
+
+}
+.eight{
+   
+
+position: absolute;
+width: 414px;
+height: 62px;
+left: 122px;
+top: 500px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+color: #000000;
+
+
+
+}
+.nine{
+    /* noroot 1 */
+
+position: absolute;
+width: 304px;
+height: 356px;
+left: 890px;
+top: 223px;
+
+background: url(noroot.png);
+
+}
