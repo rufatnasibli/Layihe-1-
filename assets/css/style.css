@@ -1084,3 +1084,215 @@ top: 5195px;
 background: url(fb_2.png);
 
 }
+.container{
+    /* Rectangle 23 */
+
+position: absolute;
+width: 1440px;
+height: 780px;
+left: -1px;
+top: 5405px;
+
+background: #9DC9C8;
+
+}
+.ee{
+    /* Начало курса — 8 сентября */
+
+position: absolute;
+width: 908px;
+height: 66px;
+left: 121px;
+top: 5584px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+
+color: #000000;
+
+
+}
+.uu{
+    /* Стоимость */
+
+position: absolute;
+width: 170px;
+height: 32px;
+left: 121px;
+top: 5704px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #000000;
+
+
+}
+.oo{
+    /* 3900 руб. */
+
+position: absolute;
+width: 481px;
+height: 181px;
+left: 121px;
+top: 5734px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 101.38%;
+/* or 81px */
+
+color: #000000;
+
+
+}
+.pp{
+    /* Для любого уровня */
+
+position: absolute;
+width: 294px;
+height: 32px;
+left: 121px;
+top: 5889px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #000000;
+
+
+}
+.ll{
+    /* Курс подходит и тем, кто начинает «с нуля», и тем, кто хочет упорядочить имеющиеся знания. */
+
+position: absolute;
+width: 294px;
+height: 70px;
+left: 121px;
+top: 5930px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.mm{
+    /* Проходите сейчас */
+
+position: absolute;
+width: 322px;
+height: 32px;
+left: 485px;
+top: 5889px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #000000;
+
+
+}
+.nn{
+    /* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
+
+position: absolute;
+width: 294px;
+height: 70px;
+left: 485px;
+top: 5930px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.containertwo{
+    /* Rectangle 24 */
+
+position: absolute;
+width: 1440px;
+height: 390px;
+left: -1px;
+top: 6185px;
+
+background: #000000;
+
+}
+.ab{
+    /* logo_mobile_white 1 */
+
+position: absolute;
+width: 115px;
+height: 68px;
+left: 121px;
+top: 6235px;
+
+background: url(logo_mobile_white.png);
+
+}
+.ba{
+    /* noroot(4) */
+
+position: absolute;
+width: 33px;
+height: 33px;
+left: 121px;
+top: 6333px;
+
+
+
+}
+.ca{
+    /* fb */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 172px;
+top: 6333px;
+
+background: url(fb.png);
+
+}
+.da{
+    /* 25684 1 */
+
+position: absolute;
+width: 35px;
+height: 35px;
+left: 225px;
+top: 6331px;
+
+background: url(25684.png);
+
+}
