@@ -1296,3 +1296,99 @@ top: 6331px;
 background: url(25684.png);
 
 }
+.sat{
+    /* noroot(2) */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 285px;
+top: 6332px;
+
+
+
+}
+.atda{
+    /* © Синхронизация, 2020 */
+
+position: absolute;
+width: 230px;
+height: 40px;
+left: 121px;
+top: 6512px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 101.38%;
+/* or 18px */
+
+color: #FFFFFF;
+
+
+}
+.yaxsi{
+    /* +7 (499) 39-146-39 */
+
+position: absolute;
+width: 230px;
+height: 40px;
+left: 1024px;
+top: 6244px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #FFFFFF;
+
+
+}
+.tm{
+   /* hello@synchronize.ru */
+
+position: absolute;
+width: 269px;
+height: 40px;
+left: 1024px;
+top: 6287px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 101.38%;
+/* or 25px */
+
+color: #FFFFFF;
+
+ 
+}
+.qardas{
+    /* phone_white */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 975px;
+top: 6239px;
+
+background: url(phone_white.png);
+
+}
+.baci{
+    /* mail_white */
+
+position: absolute;
+width: 27px;
+height: 18px;
+left: 975px;
+top: 6291px;
+
+background: url(mail_white.png);
+
+}
