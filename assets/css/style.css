@@ -158,58 +158,6 @@ background: url(noroot.png);
 
 }
 .ten{
-<<<<<<< HEAD
-    /* Group 1 */
-
-/* Group 1 */
-
-position: absolute;
-width: 483.63px;
-height: 200.02px;
-left: 463px;
-top: 668px;
-
-
-
-/* Rectangle 1 */
-
-position: absolute;
-width: 483.63px;
-height: 200px;
-left: 463px;
-top: 668px;
-
-background: #1E4681;
-border-radius: 10px;
-
-
-/* Зритель для меня не потребитель моей продукции, не судья, а соучастник творчества, соавтор. */
-
-position: absolute;
-width: 430.59px;
-height: 113px;
-left: 489.03px;
-top: 687.26px;
-
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
-
-color: #FFFFFF;
-
-
-
-/* Андрей Тарковский */
-
-position: absolute;
-width: 280.5px;
-height: 45.64px;
-left: 647.61px;
-top: 822.38px;
-=======
     position: absolute;
 width: 483.63px;
 height: 200.02px;
@@ -228,7 +176,7 @@ top: 1040px;
 
 font-family: 'Roboto Slab';
 font-style: normal;
-font-weight: 700;
+fon1t-weight: 700;
 font-size: 55px;
 line-height: 101.38%;
 /* or 56px */
@@ -245,21 +193,10 @@ width: 662px;
 height: 374px;
 left: 121px;
 top: 1200px;
->>>>>>> 8cc6ab103570fbd193257db3504eb1ba53168710
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-<<<<<<< HEAD
-font-size: 20px;
-line-height: 130%;
-/* or 26px */
-text-align: right;
-
-color: #FFFFFF;
-
-}
-=======
 font-size: 24px;
 line-height: 150%;
 /* or 36px */
@@ -280,4 +217,135 @@ top: 1175px;
 background: url(_1.png);
 
 }
->>>>>>> 8cc6ab103570fbd193257db3504eb1ba53168710
+.elgun{
+    /* photo 1 */
+
+position: absolute;
+width: 232px;
+height: 203px;
+left: 121px;
+top: 1619px;
+
+background: url(photo.png);
+
+}
+.aysun{
+    /* 8 занятий */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 485px;
+top: 1689px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.humay{
+    /* Для погружения в кинематограф */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 485px;
+top: 1729px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.sevil{
+    /* 2 часа */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 730px;
+top: 1689px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.lale{
+    /* Длительность каждого занятия */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 730px;
+top: 1729px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.suleyman{
+    /* 3 недели */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 973px;
+top: 1689px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.turan{
+    /* Длительность курса */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 973px;
+top: 1729px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
