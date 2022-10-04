@@ -157,3 +157,63 @@ top: 223px;
 background: url(noroot.png);
 
 }
+.ten{
+    position: absolute;
+width: 483.63px;
+height: 200.02px;
+left: 409.39px;
+top: 666.62px;
+
+}
+.eleven{
+    /* О курсе */
+
+position: absolute;
+width: 365px;
+height: 93px;
+left: 121px;
+top: 1040px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+
+color: #000000;
+
+
+}
+.twelwe{
+    /* Порой фильмы устроены сложнее четырёхтомных романов. Но читать книги учат со школы, а смотреть кино — нет. При этом без подготовки бывает трудно получить от просмотра удовольствие. На курсе из 8 занятий научимся быть осознанными зрителями. Познакомимся с этапами кинопроизводства и узнаем, как смотреть кино глазами сценариста, режиссёра и монтажёра. Разберёмся в особенностях жанров и рассмотрим важнейшие картины, от «Гражданина Кейна» до «Матрицы». */
+
+position: absolute;
+width: 662px;
+height: 374px;
+left: 121px;
+top: 1200px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+
+color: #000000;
+
+
+}
+.tural{
+    /* _1 1 */
+
+position: absolute;
+width: 314px;
+height: 315px;
+left: 973px;
+top: 1175px;
+
+background: url(_1.png);
+
+}
