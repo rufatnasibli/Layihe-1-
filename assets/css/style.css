@@ -176,7 +176,7 @@ top: 1040px;
 
 font-family: 'Roboto Slab';
 font-style: normal;
-font-weight: 700;
+fon1t-weight: 700;
 font-size: 55px;
 line-height: 101.38%;
 /* or 56px */
@@ -215,5 +215,137 @@ left: 973px;
 top: 1175px;
 
 background: url(_1.png);
+
+}
+.elgun{
+    /* photo 1 */
+
+position: absolute;
+width: 232px;
+height: 203px;
+left: 121px;
+top: 1619px;
+
+background: url(photo.png);
+
+}
+.aysun{
+    /* 8 занятий */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 485px;
+top: 1689px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.humay{
+    /* Для погружения в кинематограф */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 485px;
+top: 1729px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.sevil{
+    /* 2 часа */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 730px;
+top: 1689px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.lale{
+    /* Длительность каждого занятия */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 730px;
+top: 1729px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
+
+}
+.suleyman{
+    /* 3 недели */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 973px;
+top: 1689px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.turan{
+    /* Длительность курса */
+
+position: absolute;
+width: 150px;
+height: 39px;
+left: 973px;
+top: 1729px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 130%;
+/* or 23px */
+
+color: #000000;
+
 
 }
