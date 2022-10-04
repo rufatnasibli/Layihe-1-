@@ -943,7 +943,7 @@ height: 160px;
 left: 520px;
 top: 4176px;
 
-background: url(photo(9).jpg);
+
 
 }
 .hh{
@@ -986,4 +986,101 @@ color: #000000;
 
 
 }
+.aaaa{
+    /* Курс прошло уже 1616 человек */
+
+position: absolute;
+width: 987px;
+height: 93px;
+left: 121px;
+top: 4716px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+
+color: #000000;
+
+
+}
+.container{
+    /* Rectangle 21 */
+
+position: absolute;
+width: 791px;
+height: 451px;
+left: 125px;
+top: 4843px;
+
+background: #FFFFFF;
+box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+}
+.qqqq{
+    /* Курс профессионально подготовлен, изложение материала весьма доступное, благодаря прекрасному изложению лекторов и демонстрации примеров. А наличие домашних заданий позволяет закрепить все полученные знания на практике. Теперь другими глазами смотрю фильмы, считываю не только сюжет , но и могу оценить работу режиссера, оператора, монтажера и т.д. Спасибо! */
+
+position: absolute;
+width: 700px;
+height: 203px;
+left: 170px;
+top: 4883px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+
+color: #000000;
+
+
+}
+.zzzz{
+    /* 1 9 */
+
+position: absolute;
+width: 190px;
+height: 169px;
+left: 151px;
+top: 5096px;
+
+background: url(1.png);
+
+}
+.wwww{
+    /* Екатерина Палехова */
+
+position: absolute;
+width: 353px;
+height: 59px;
+left: 371px;
+top: 5136px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 101.38%;
+/* or 30px */
+
+color: #000000;
+
+
+}
+.ssss{
+    /* fb_2 1 */
+
+position: absolute;
+width: 32px;
+height: 31px;
+left: 371px;
+top: 5195px;
+
+background: url(fb_2.png);
+
 }
