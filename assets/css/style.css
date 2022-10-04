@@ -779,3 +779,211 @@ color: #000000;
 
 
 }
+.baba{
+    /* Rectangle 14 */
+
+position: absolute;
+width: 399px;
+height: 160px;
+left: 520px;
+top: 3803px;
+
+
+}
+.nana{
+    /* 5. Жанры в кино */
+
+position: absolute;
+width: 365px;
+height: 39px;
+left: 540px;
+top: 3974px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+color: #000000;
+
+
+}
+.abla{
+    /* 17 сентября 20:00 Данила Кузнецов */
+
+position: absolute;
+width: 365px;
+height: 63px;
+left: 539px;
+top: 4045px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.zz{
+    /* Rectangle 15 */
+
+position: absolute;
+width: 399px;
+height: 160px;
+left: 956px;
+top: 3803px;
+
+background: url(_1.jpg);
+
+}
+.ww{
+    /* 6. Язык кино. Семинар */
+
+position: absolute;
+width: 365px;
+height: 39px;
+left: 976px;
+top: 3974px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+color: #000000;
+
+
+}
+.tt{
+    /* 20 сентября 13:00 Данила Кузнецов */
+
+position: absolute;
+width: 365px;
+height: 63px;
+left: 975px;
+top: 4045px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.aa{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 399px;
+height: 160px;
+left: 84px;
+top: 4176px;
+
+
+
+}
+.bb{
+    /* 7. Взгляд кинокритика */
+
+position: absolute;
+width: 365px;
+height: 39px;
+left: 104px;
+top: 4347px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 130%;
+/* identical to box height, or 39px */
+
+color: #000000;
+
+
+}
+.cc{
+    /* 21 сентября 19:00 Дмитрий Скворцов */
+
+position: absolute;
+width: 365px;
+height: 63px;
+left: 103px;
+top: 4418px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.dd{
+    /* Rectangle 20 */
+
+position: absolute;
+width: 399px;
+height: 160px;
+left: 520px;
+top: 4176px;
+
+background: url(photo(9).jpg);
+
+}
+.hh{
+    /* 8. Осознанный зритель. Семинар */
+
+position: absolute;
+width: 365px;
+height: 71px;
+left: 540px;
+top: 4352px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 97%;
+/* or 29px */
+
+color: #000000;
+
+
+}
+.kk{
+    /* 22 сентября 19:00 Дмитрий Скворцов */
+
+position: absolute;
+width: 365px;
+height: 63px;
+left: 539px;
+top: 4418px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+}
