@@ -538,7 +538,7 @@
 
 }
 
-ul {
+.aqqqq {
     /* Кто чем занят в съёмочной группе; На какие этапы делится кинопроизводство; Как выглядит сценарий фильма и как он меняется по ходу съёмок; Какими методами режиссёры заставляют нас смеяться, плакать и грустить; Как построение кадра, музыка и свет помогают считывать заложенные в фильм смыслы; Какие жанры есть в кино и как от них зависит работа операторов, осветителей и монтажёров; Как, зная всё это, понимать, о чем фильм. */
 
     position: absolute;
@@ -1472,17 +1472,1353 @@ ul {
 }
 
 @media screen and (min-width:992px) and (max-width:1279px) {
-    body{
-        background-color: red;
-    }
+    
    
+    .zero{
+        position: absolute;
+    width: 64.87px;
+    height: 38.23px;
+    left: 70.08px;
+    top: 22px;
+    
+    background: url(logo_mobile_black.png);
+    }
+    .two{
+        position: absolute;
+    width: 12.74px;
+    height: 12.16px;
+    left: 70.08px;
+    top: 116.4px;
+    
+    background: url(globe);
+    }
+    .one{
+        position: absolute;
+    width: 75.29px;
+    height: 18.53px;
+    left: 87.45px;
+    top: 118.14px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 115%;
+    /* or 14px */
+    
+    
+    color: #000000;
+    
+    }
+    .three{
+        position: absolute;
+    width: 12.74px;
+    height: 12.74px;
+    left: 177.23px;
+    top: 115.83px;
+    
+    background: url(img_135744);
+    }
+    .four{
+        position: absolute;
+    width: 75.29px;
+    height: 18.53px;
+    left: 195.76px;
+    top: 118.14px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 115%;
+    /* or 14px */
+    
+    
+    color: #000000;
+    }
+     .five{
+        position: absolute;
+    width: 11.58px;
+    height: 12.74px;
+    left: 270.47px;
+    top: 115.83px;
+    
+    background: url(calendar_2);
+     }   
+    .six{
+        position: absolute;
+    width: 75.29px;
+    height: 18.53px;
+    left: 289.58px;
+    top: 118.14px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 115%;
+    /* or 14px */
+    
+    
+    color: #000000;
+     }
+     .seven{
+        position: absolute;
+    width: 363.72px;
+    height: 110.04px;
+    left: 70.66px;
+    top: 144.2px;
+    
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 101.38%;
+    /* or 47px */
+    
+    
+    color: #000000;
+     }
+    .eight{
+        position: absolute;
+    width: 264px;
+    height: 36px;
+    left: 71px;
+    top: 257px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    /* or 18px */
+    
+    
+    color: #000000;
+    
+    }
+    .nine{
+        position: absolute;
+    width: 176.07px;
+    height: 206.18px;
+    left: 515.46px;
+    top: 138.99px;
+    
+    background: url(noroot.png);
+    }
+    .ten{
+        position: absolute;
+    width: 280.11px;
+    height: 115.83px;
+    left: 235px;
+    top: 390px;
+    }
+    .eleven{
+        /* О курсе */
 
-  
+position: absolute;
+width: 211.4px;
+height: 53.86px;
+left: 70.08px;
+top: 612.17px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+
+
+    }
+    .twelwe{
+        /* Порой фильмы устроены сложнее четырёхтомных романов. Но читать книги учат со школы, а смотреть кино — нет. При этом без подготовки бывает трудно получить от просмотра удовольствие. На курсе из 8 занятий научимся быть осознанными зрителями. Познакомимся с этапами кинопроизводства и узнаем, как смотреть кино глазами сценариста, режиссёра и монтажёра. Разберёмся в особенностях жанров и рассмотрим важнейшие картины, от «Гражданина Кейна» до «Матрицы». */
+
+position: absolute;
+width: 383.41px;
+height: 216.61px;
+left: 70.08px;
+top: 676.46px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+color: #000000;
+
+
+    }
+    .tural{
+        /* _1 1 */
+
+position: absolute;
+width: 181.86px;
+height: 182.44px;
+left: 563.53px;
+top: 690.36px;
+
+background: url(_1.png);
+
+    }
+    .elgun{
+        /* photo 1 */
+
+position: absolute;
+width: 134.37px;
+height: 117.57px;
+left: 70.08px;
+top: 947.51px;
+
+background: url(photo);
+
+    }
+    .aysun{
+        /* 8 занятий */
+
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 280.9px;
+top: 988.05px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+
+color: #000000;
+
+
+    }
+    .humay{
+        /* Для погружения в кинематограф */
+
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 280.9px;
+top: 1011.22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+/* or 14px */
+
+color: #000000;
+
+
+    }
+    .sevil{
+        /* 2 часа */
+
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 422.79px;
+top: 988.05px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+
+color: #000000;
+
+
+    }
+    .lale{
+        /* Длительность каждого занятия */
+
+position: absolute;
+width: 108px;
+height: 23px;
+left: 423px;
+top: 1011px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+/* or 14px */
+
+color: #000000;
+
+
+    }
+    .suleyman{
+        /* 3 недели */
+
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 563.53px;
+top: 988.05px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+
+color: #000000;
 
 
 
+    }
+.turan{
+    /* Длительность курса */
 
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 563.53px;
+top: 1011.22px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.mehemmed{
+    /* Формат занятий */
+
+position: absolute;
+width: 386.3px;
+height: 53.86px;
+left: 70.08px;
+top: 1168.17px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.ismayil{
+    /* Вебинары */
+
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 70.66px;
+top: 1273.58px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+
+color: #1E4681;
+
+
+}
+.rufet{
+    /* Занятия проходят онлайн в режиме вебинаров с преподавателем */
+
+position: absolute;
+width: 153px;
+height: 22px;
+left: 71px;
+top: 1297px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.nezrin{
+    /* Доступ навсегда */
+
+position: absolute;
+width: 123.94px;
+height: 22.59px;
+left: 270.47px;
+top: 1273.58px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+
+color: #1E4681;
+
+
+}
+.nicat{
+    /* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
+
+position: absolute;
+width: 172px;
+height: 63px;
+left: 270px;
+top: 1297px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.osmanov{
+    /* Общение */
+
+position: absolute;
+width: 86.88px;
+height: 22.59px;
+left: 492.87px;
+top: 1273.58px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 130%;
+/* or 19px */
+
+color: #1E4681;
+
+
+}
+.lala{
+    /* Вы можете задать вопрос преподавателю на занятии */
+
+position: absolute;
+width: 141.9px;
+height: 22.59px;
+left: 492.87px;
+top: 1296.75px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 130%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.abc{
+    /* Что узнаем */
+
+position: absolute;
+width: 386.3px;
+height: 53.86px;
+left: 70.08px;
+top: 1463.55px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.aqqqq{
+    /* Кто чем занят в съёмочной группе; На какие этапы делится кинопроизводство; Как выглядит сценарий фильма и как он меняется по ходу съёмок; Какими методами режиссёры заставляют нас смеяться, плакать и грустить; Как построение кадра, музыка и свет помогают считывать заложенные в фильм смыслы; Какие жанры есть в кино и как от них зависит работа операторов, осветителей и монтажёров; Как, зная всё это, понимать, о чем фильм. */
+
+position: absolute;
+width: 383.41px;
+height: 216.61px;
+left: 79.92px;
+top: 1529.57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+color: #000000;
+
+
+}
+.balaken{
+    /* Программа курса */
+
+position: absolute;
+width: 524.15px;
+height: 53.86px;
+left: 70.08px;
+top: 1889.81px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.aaa{
+    /* Rectangle 5 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 48.65px;
+top: 1998.7px;
 
 
 
 }
+.bbb{
+    /* 1. Как создают кино */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 60.23px;
+top: 2097.73px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.ccc{
+    /* 8 сентября 20:00 Данила Кузнецов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 59.65px;
+top: 2138.85px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.ddd{
+    /* Rectangle 7 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 301.17px;
+top: 1998.7px;
+
+background: url(photo.jpg);
+
+}
+.eee{
+    /* 2. Взгляд драматурга */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 312.75px;
+top: 2097.73px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.qqq{
+    /* 10 сентября 20:00 Данила Кузнецов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 312.17px;
+top: 2138.85px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.zzz{
+    /* Rectangle 9 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 553.68px;
+top: 1998.7px;
+
+
+
+}
+.sss{
+    /* 3. Взгляд режиссёра */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 565.27px;
+top: 2097.73px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.xxx{
+    /* 13 сентября 13:00 Данила Кузнецов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 564.69px;
+top: 2138.85px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.ggg{
+    /* Rectangle 13 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 48.65px;
+top: 2212.41px;
+
+
+
+}
+.nnn{
+    /* 4. Взгляд монтажёра */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 60.23px;
+top: 2311.45px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.bbb{
+    /* 15 сентября 20:00 Данила Кузнецов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 59.65px;
+top: 2352.57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.baba{
+    /* Rectangle 14 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 301.17px;
+top: 2212.41px;
+
+
+
+}
+.nana{
+    /* 5. Жанры в кино */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 312.75px;
+top: 2311.45px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.abla{
+/* 17 сентября 20:00 Данила Кузнецов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 312.17px;
+top: 2352.57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.zz{
+    /* Rectangle 15 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 553.68px;
+top: 2212.41px;
+
+background: url(_1.jpg);
+
+}
+.ww{
+    /* 6. Язык кино. Семинар */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 565.27px;
+top: 2311.45px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.tt{
+    /* 20 сентября 13:00 Данила Кузнецов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 564.69px;
+top: 2352.57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.aa{
+    /* Rectangle 19 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 48.65px;
+top: 2428.44px;
+
+
+
+}
+.bb{
+    /* 7. Взгляд кинокритика */
+
+position: absolute;
+width: 211.4px;
+height: 22.59px;
+left: 60.23px;
+top: 2527.48px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 130%;
+/* or 22px */
+
+color: #000000;
+
+
+}
+.cc{
+    /* 21 сентября 19:00 Дмитрий Скворцов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 59.65px;
+top: 2568.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.dd{
+    /* Rectangle 20 */
+
+position: absolute;
+width: 231.09px;
+height: 92.67px;
+left: 301.17px;
+top: 2428.44px;
+
+
+
+}
+.hh{
+    /* 8. Осознанный зритель. Семинар */
+
+position: absolute;
+width: 211.4px;
+height: 41.12px;
+left: 312.75px;
+top: 2530.37px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 97%;
+/* or 16px */
+
+color: #000000;
+
+
+}
+.kk{
+    /* 22 сентября 19:00 Дмитрий Скворцов */
+
+position: absolute;
+width: 211.4px;
+height: 36.49px;
+left: 312.17px;
+top: 2568.6px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.aaaa{
+    /* Курс прошло уже 1616 человек */
+
+position: absolute;
+width: 571.64px;
+height: 53.86px;
+left: 70.66px;
+top: 2723.7px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.container{
+    /* Rectangle 21 */
+
+position: absolute;
+width: 458.12px;
+height: 261.2px;
+left: 72.97px;
+top: 2797.26px;
+
+background: #FFFFFF;
+box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+border-radius: 17.375px;
+
+}
+.qqqq{
+    /* Курс профессионально подготовлен, изложение материала весьма доступное, благодаря прекрасному изложению лекторов и демонстрации примеров. А наличие домашних заданий позволяет закрепить все полученные знания на практике. Теперь другими глазами смотрю фильмы, считываю не только сюжет , но и могу оценить работу режиссера, оператора, монтажера и т.д. Спасибо! */
+
+position: absolute;
+width: 405.42px;
+height: 117.57px;
+left: 99.04px;
+top: 2820.42px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+
+color: #000000;
+
+
+}
+.zzzz{
+    /* 1 9 */
+
+position: absolute;
+width: 110.04px;
+height: 97.88px;
+left: 88.03px;
+top: 2943.79px;
+
+background: url(1.png);
+
+}
+.wwww{
+    /* Екатерина Палехова */
+
+position: absolute;
+width: 204.45px;
+height: 34.17px;
+left: 215.45px;
+top: 2966.95px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 101.38%;
+/* or 17px */
+
+color: #000000;
+
+
+}
+.ssss{
+    /* fb_2 1 */
+
+position: absolute;
+width: 18.53px;
+height: 17.95px;
+left: 215.45px;
+top: 3001.13px;
+
+background: url(fb_2);
+
+}
+.containerone{
+    /* Rectangle 23 */
+
+position: absolute;
+width: 834px;
+height: 451.75px;
+left: 0px;
+top: 3122.75px;
+
+background: #9DC9C8;
+
+}
+.ee{
+    /* Начало курса — 8 сентября */
+
+position: absolute;
+width: 525.88px;
+height: 38.23px;
+left: 70.66px;
+top: 3226.42px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 101.38%;
+/* or 32px */
+
+color: #000000;
+
+
+}
+.uu{
+    /* Стоимость */
+
+position: absolute;
+width: 98.46px;
+height: 18.53px;
+left: 70.66px;
+top: 3295.92px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.oo{
+    /* 3900 руб. */
+
+position: absolute;
+width: 278.58px;
+height: 104.83px;
+left: 70.66px;
+top: 3313.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 101.38%;
+/* or 47px */
+
+color: #000000;
+
+
+}
+.pp{
+    /* Для любого уровня */
+
+position: absolute;
+width: 170.28px;
+height: 18.53px;
+left: 70.66px;
+top: 3403.07px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.ll{
+    /* Курс подходит и тем, кто начинает «с нуля», и тем, кто хочет упорядочить имеющиеся знания. */
+
+position: absolute;
+width: 170.28px;
+height: 40.54px;
+left: 70.66px;
+top: 3426.81px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+color: #000000;
+
+
+}
+.mm{
+    /* Проходите сейчас */
+
+position: absolute;
+width: 186.49px;
+height: 18.53px;
+left: 281.47px;
+top: 3403.07px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+color: #000000;
+
+
+}
+.nn{
+    /* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
+
+position: absolute;
+width: 170.28px;
+height: 40.54px;
+left: 281.47px;
+top: 3426.81px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+color: #000000;
+
+
+}
+.containertwo{
+    /* Rectangle 24 */
+
+position: absolute;
+width: 834px;
+height: 225.88px;
+left: 0px;
+top: 3574.5px;
+
+background: #000000;
+
+}
+.ab{
+/* logo_mobile_white 1 */
+
+position: absolute;
+width: 66.6px;
+height: 39.38px;
+left: 70.66px;
+top: 3603.46px;
+
+background: url(logo_mobile_white.png);
+
+}
+.ba{
+    /* noroot(4) */
+
+position: absolute;
+width: 19.11px;
+height: 19.11px;
+left: 70.66px;
+top: 3660.22px;
+
+
+
+}
+
+.ca{
+    /* 25684 1 */
+
+position: absolute;
+width: 20.27px;
+height: 20.27px;
+left: 130.89px;
+top: 3659.06px;
+
+background: url(25684.png);
+}
+}
+.da{
+    /* 25684 1 */
+
+position: absolute;
+width: 20.27px;
+height: 20.27px;
+left: 130.89px;
+top: 3659.06px;
+
+background: url(25684.png);
+
+}
+.sat{
+    /* noroot(2) */
+
+position: absolute;
+width: 19.69px;
+height: 19.69px;
+left: 165.64px;
+top: 3659.64px;
+
+
+
+}
+.atda{
+    /* © Синхронизация, 2020 */
+
+position: absolute;
+width: 133.21px;
+height: 23.17px;
+left: 70.66px;
+top: 3763.89px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 101.38%;
+/* or 10px */
+
+color: #FFFFFF;
+
+
+}
+.yaxsi{
+    /* +7 (499) 39-146-39 */
+
+position: absolute;
+width: 133.21px;
+height: 23.17px;
+left: 593.65px;
+top: 3608.67px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+color: #FFFFFF;
+
+
+}
+.tm{
+    /* hello@synchronize.ru */
+
+position: absolute;
+width: 155.8px;
+height: 23.17px;
+left: 593.65px;
+top: 3633.57px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 101.38%;
+/* or 14px */
+
+color: #FFFFFF;
+
+
+}
+.qardas{
+    /* phone_white */
+
+position: absolute;
+width: 15.64px;
+height: 15.64px;
+left: 565.27px;
+top: 3605.78px;
+
+background: url(phone_white.png);
+
+}
+.baci{
+    /* mail_white */
+
+position: absolute;
+width: 15.64px;
+height: 10.43px;
+left: 565.27px;
+top: 3635.89px;
+
+background: url(mail_white.png);
+
+}
+
