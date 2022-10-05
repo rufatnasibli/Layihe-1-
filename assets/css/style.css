@@ -1,1570 +1,1488 @@
-.zero{
-   
-
-position: absolute;
-width: 112px;
-height: 66px;
-left: 121px;
-top: 21px;
-
-background: url(logo_mobile_black.png);
-
-}
-.one{
-   
-
-position: absolute;
-width: 130px;
-height: 32px;
-left: 151px;
-top: 187px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 115%;
+.zero {
 
 
-color: #000000;
+    position: absolute;
+    width: 112px;
+    height: 66px;
+    left: 121px;
+    top: 21px;
 
+    background: url(logo_mobile_black.png);
 
 }
-.two{
+
+.one {
+
+
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 151px;
+    top: 187px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+
+
+    color: #000000;
+
+
+}
+
+.two {
     /* globe */
 
-position: absolute;
-width: 22px;
-height: 21px;
-left: 121px;
-top: 184px;
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    left: 121px;
+    top: 184px;
 
-background: url(globe.png);
-
-}
-.three{
-   
-
-position: absolute;
-width: 22px;
-height: 22px;
-left: 306px;
-top: 183px;
-
-background: url(img_135744.png);
+    background: url(globe.png);
 
 }
-.four{
+
+.three {
+
+
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 306px;
+    top: 183px;
+
+    background: url(img_135744.png);
+
+}
+
+.four {
     /* 18 часов */
 
-position: absolute;
-width: 130px;
-height: 32px;
-left: 338px;
-top: 187px;
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 338px;
+    top: 187px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 115%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.five{
+
+.five {
     /* calendar_2 */
 
-position: absolute;
-width: 20px;
-height: 22px;
-left: 467px;
-top: 183px;
+    position: absolute;
+    width: 20px;
+    height: 22px;
+    left: 467px;
+    top: 183px;
 
-background: url(calendar_2.png);
+    background: url(calendar_2.png);
 
 }
-.six{
+
+.six {
     /* 8 сентября */
 
-position: absolute;
-width: 130px;
-height: 32px;
-left: 500px;
-top: 187px;
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 500px;
+    top: 187px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 115%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.seven{
+
+.seven {
     /* Как смотреть кино */
 
-position: absolute;
-width: 628px;
-height: 190px;
-left: 122px;
-top: 248px;
+    position: absolute;
+    width: 628px;
+    height: 190px;
+    left: 122px;
+    top: 248px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 80px;
-line-height: 101.38%;
-/* or 81px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 101.38%;
+    /* or 81px */
 
-color: #000000;
-
-
-}
-.eight{
-   
-
-position: absolute;
-width: 414px;
-height: 62px;
-left: 122px;
-top: 500px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 150%;
-color: #000000;
-
+    color: #000000;
 
 
 }
-.nine{
+
+.eight {
+
+
+    position: absolute;
+    width: 414px;
+    height: 62px;
+    left: 122px;
+    top: 500px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+
+
+
+}
+
+.nine {
     /* noroot 1 */
 
-position: absolute;
-width: 304px;
-height: 356px;
-left: 890px;
-top: 223px;
-
-background: url(noroot.png);
-
-}
-.ten{
     position: absolute;
-width: 483.63px;
-height: 200.02px;
-left: 409.39px;
-top: 666.62px;
+    width: 304px;
+    height: 356px;
+    left: 890px;
+    top: 223px;
+
+    background: url(noroot.png);
 
 }
-.eleven{
+
+.ten {
+    position: absolute;
+    width: 483.63px;
+    height: 200.02px;
+    left: 409.39px;
+    top: 666.62px;
+
+}
+
+.eleven {
     /* О курсе */
 
-position: absolute;
-width: 365px;
-height: 93px;
-left: 121px;
-top: 1040px;
+    position: absolute;
+    width: 365px;
+    height: 93px;
+    left: 121px;
+    top: 1040px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.twelwe{
+
+.twelwe {
     /* Порой фильмы устроены сложнее четырёхтомных романов. Но читать книги учат со школы, а смотреть кино — нет. При этом без подготовки бывает трудно получить от просмотра удовольствие. На курсе из 8 занятий научимся быть осознанными зрителями. Познакомимся с этапами кинопроизводства и узнаем, как смотреть кино глазами сценариста, режиссёра и монтажёра. Разберёмся в особенностях жанров и рассмотрим важнейшие картины, от «Гражданина Кейна» до «Матрицы». */
 
-position: absolute;
-width: 662px;
-height: 374px;
-left: 121px;
-top: 1200px;
+    position: absolute;
+    width: 662px;
+    height: 374px;
+    left: 121px;
+    top: 1200px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 150%;
-/* or 36px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    /* or 36px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.tural{
+
+.tural {
     /* _1 1 */
 
-position: absolute;
-width: 314px;
-height: 315px;
-left: 973px;
-top: 1175px;
+    position: absolute;
+    width: 314px;
+    height: 315px;
+    left: 973px;
+    top: 1175px;
 
-background: url(_1.png);
+    background: url(_1.png);
 
 }
-.elgun{
+
+.elgun {
     /* photo 1 */
 
-position: absolute;
-width: 232px;
-height: 203px;
-left: 121px;
-top: 1619px;
+    position: absolute;
+    width: 232px;
+    height: 203px;
+    left: 121px;
+    top: 1619px;
 
-background: url(photo.png);
+    background: url(photo.png);
 
 }
-.aysun{
+
+.aysun {
     /* 8 занятий */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 485px;
-top: 1689px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 485px;
+    top: 1689px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.humay{
+
+.humay {
     /* Для погружения в кинематограф */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 485px;
-top: 1729px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 485px;
+    top: 1729px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 130%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.sevil{
+
+.sevil {
     /* 2 часа */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 730px;
-top: 1689px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 730px;
+    top: 1689px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.lale{
+
+.lale {
     /* Длительность каждого занятия */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 730px;
-top: 1729px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 730px;
+    top: 1729px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 130%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.suleyman{
+
+.suleyman {
     /* 3 недели */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 973px;
-top: 1689px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 973px;
+    top: 1689px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.turan{
+
+.turan {
     /* Длительность курса */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 973px;
-top: 1729px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 973px;
+    top: 1729px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 130%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.mehemmed{
+
+.mehemmed {
     /* Формат занятий */
 
-position: absolute;
-width: 667px;
-height: 93px;
-left: 121px;
-top: 2000px;
+    position: absolute;
+    width: 667px;
+    height: 93px;
+    left: 121px;
+    top: 2000px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.ismayil{
+
+.ismayil {
     /* Вебинары */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 122px;
-top: 2182px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 122px;
+    top: 2182px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #1E4681;
+    color: #1E4681;
 
 
 }
-.rufet{
+
+.rufet {
     /* Занятия проходят онлайн в режиме вебинаров с преподавателем */
 
-position: absolute;
-width: 223px;
-height: 39px;
-left: 122px;
-top: 2222px;
+    position: absolute;
+    width: 223px;
+    height: 39px;
+    left: 122px;
+    top: 2222px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 130%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.nezrin{
+
+.nezrin {
     /* Доступ навсегда */
 
-position: absolute;
-width: 214px;
-height: 39px;
-left: 467px;
-top: 2182px;
+    position: absolute;
+    width: 214px;
+    height: 39px;
+    left: 467px;
+    top: 2182px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #1E4681;
+    color: #1E4681;
 
 
 }
-.nicat{
+
+.nicat {
     /* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
 
-position: absolute;
-width: 271px;
-height: 109px;
-left: 467px;
-top: 2222px;
+    position: absolute;
+    width: 271px;
+    height: 109px;
+    left: 467px;
+    top: 2222px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 130%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.osmanov{
+
+.osmanov {
     /* Общение */
 
-position: absolute;
-width: 150px;
-height: 39px;
-left: 851px;
-top: 2182px;
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 851px;
+    top: 2182px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #1E4681;
+    color: #1E4681;
 
 
 }
-.lala{
+
+.lala {
     /* Вы можете задать вопрос преподавателю на занятии */
 
-position: absolute;
-width: 245px;
-height: 39px;
-left: 851px;
-top: 2222px;
+    position: absolute;
+    width: 245px;
+    height: 39px;
+    left: 851px;
+    top: 2222px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 130%;
-/* or 23px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.sevinc{
+
+.sevinc {
     /* Что узнаем */
 
-position: absolute;
-width: 667px;
-height: 93px;
-left: 121px;
-top: 2510px;
+    position: absolute;
+    width: 667px;
+    height: 93px;
+    left: 121px;
+    top: 2510px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-ul{
+
+ul {
     /* Кто чем занят в съёмочной группе; На какие этапы делится кинопроизводство; Как выглядит сценарий фильма и как он меняется по ходу съёмок; Какими методами режиссёры заставляют нас смеяться, плакать и грустить; Как построение кадра, музыка и свет помогают считывать заложенные в фильм смыслы; Какие жанры есть в кино и как от них зависит работа операторов, осветителей и монтажёров; Как, зная всё это, понимать, о чем фильм. */
 
-position: absolute;
-width: 662px;
-height: 374px;
-left: 138px;
-top: 2624px;
+    position: absolute;
+    width: 662px;
+    height: 374px;
+    left: 138px;
+    top: 2624px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 150%;
-/* or 36px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    /* or 36px */
 
-color: #000000;
+    color: #000000;
 
 
 }
 
-.abc{
+.abc {
     /* Что узнаем */
 
-position: absolute;
-width: 667px;
-height: 93px;
-left: 121px;
-top: 2510px;
+    position: absolute;
+    width: 667px;
+    height: 93px;
+    left: 121px;
+    top: 2510px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
 
-.balaken{
+.balaken {
     /* Программа курса */
 
-position: absolute;
-width: 905px;
-height: 93px;
-left: 121px;
-top: 3246px;
+    position: absolute;
+    width: 905px;
+    height: 93px;
+    left: 121px;
+    top: 3246px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.aaa{
+
+.aaa {
     /* Rectangle 5 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 84px;
-top: 3434px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 84px;
+    top: 3434px;
 
 
 
 }
-.bbb{
+
+.bbb {
     /* 1. Как создают кино */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 104px;
-top: 3605px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 104px;
+    top: 3605px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.ccc{
+
+.ccc {
     /* 8 сентября 20:00 Данила Кузнецов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 103px;
-top: 3676px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 103px;
+    top: 3676px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.ddd{
+
+.ddd {
     /* Rectangle 7 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 520px;
-top: 3434px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 520px;
+    top: 3434px;
 
-background: url(photo.jpg);
+    background: url(photo.jpg);
 
 }
-.eee{
+
+.eee {
     /* 2. Взгляд драматурга */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 540px;
-top: 3605px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 540px;
+    top: 3605px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.qqq{
+
+.qqq {
     /* 10 сентября 20:00 Данила Кузнецов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 539px;
-top: 3676px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 539px;
+    top: 3676px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.zzz{
+
+.zzz {
     /* Rectangle 9 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 956px;
-top: 3434px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 956px;
+    top: 3434px;
 
 
 
 }
-.sss{
+
+.sss {
     /* 3. Взгляд режиссёра */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 976px;
-top: 3605px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 976px;
+    top: 3605px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.xxx{
+
+.xxx {
     /* 13 сентября 13:00 Данила Кузнецов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 975px;
-top: 3676px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 975px;
+    top: 3676px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.ggg{
+
+.ggg {
     /* Rectangle 13 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 84px;
-top: 3803px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 84px;
+    top: 3803px;
 
 
 
 }
-.nnn{
+
+.nnn {
     /* 4. Взгляд монтажёра */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 104px;
-top: 3974px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 104px;
+    top: 3974px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.bbb{
+
+.bbb {
     /* 15 сентября 20:00 Данила Кузнецов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 103px;
-top: 4045px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 103px;
+    top: 4045px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.baba{
+
+.baba {
     /* Rectangle 14 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 520px;
-top: 3803px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 520px;
+    top: 3803px;
 
 
 }
-.nana{
+
+.nana {
     /* 5. Жанры в кино */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 540px;
-top: 3974px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 540px;
+    top: 3974px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.abla{
+
+.abla {
     /* 17 сентября 20:00 Данила Кузнецов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 539px;
-top: 4045px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 539px;
+    top: 4045px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.zz{
+
+.zz {
     /* Rectangle 15 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 956px;
-top: 3803px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 956px;
+    top: 3803px;
 
-background: url(_1.jpg);
+    background: url(_1.jpg);
 
 }
-.ww{
+
+.ww {
     /* 6. Язык кино. Семинар */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 976px;
-top: 3974px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 976px;
+    top: 3974px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.tt{
+
+.tt {
     /* 20 сентября 13:00 Данила Кузнецов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 975px;
-top: 4045px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 975px;
+    top: 4045px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.aa{
+
+.aa {
     /* Rectangle 19 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 84px;
-top: 4176px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 84px;
+    top: 4176px;
 
 
 
 }
-.bb{
+
+.bb {
     /* 7. Взгляд кинокритика */
 
-position: absolute;
-width: 365px;
-height: 39px;
-left: 104px;
-top: 4347px;
+    position: absolute;
+    width: 365px;
+    height: 39px;
+    left: 104px;
+    top: 4347px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 130%;
-/* identical to box height, or 39px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.cc{
+
+.cc {
     /* 21 сентября 19:00 Дмитрий Скворцов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 103px;
-top: 4418px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 103px;
+    top: 4418px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.dd{
+
+.dd {
     /* Rectangle 20 */
 
-position: absolute;
-width: 399px;
-height: 160px;
-left: 520px;
-top: 4176px;
+    position: absolute;
+    width: 399px;
+    height: 160px;
+    left: 520px;
+    top: 4176px;
 
 
 
 }
-.hh{
+
+.hh {
     /* 8. Осознанный зритель. Семинар */
 
-position: absolute;
-width: 365px;
-height: 71px;
-left: 540px;
-top: 4352px;
+    position: absolute;
+    width: 365px;
+    height: 71px;
+    left: 540px;
+    top: 4352px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 97%;
-/* or 29px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 97%;
+    /* or 29px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.kk{
+
+.kk {
     /* 22 сентября 19:00 Дмитрий Скворцов */
 
-position: absolute;
-width: 365px;
-height: 63px;
-left: 539px;
-top: 4418px;
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    left: 539px;
+    top: 4418px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 130%;
-/* or 32px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 32px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.aaaa{
+
+.aaaa {
     /* Курс прошло уже 1616 человек */
 
-position: absolute;
-width: 987px;
-height: 93px;
-left: 121px;
-top: 4716px;
+    position: absolute;
+    width: 987px;
+    height: 93px;
+    left: 121px;
+    top: 4716px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.container{
+
+.container {
     /* Rectangle 21 */
 
-position: absolute;
-width: 791px;
-height: 451px;
-left: 125px;
-top: 4843px;
+    position: absolute;
+    width: 791px;
+    height: 451px;
+    left: 125px;
+    top: 4843px;
 
-background: #FFFFFF;
-box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
-border-radius: 30px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
 
 }
-.qqqq{
+
+.qqqq {
     /* Курс профессионально подготовлен, изложение материала весьма доступное, благодаря прекрасному изложению лекторов и демонстрации примеров. А наличие домашних заданий позволяет закрепить все полученные знания на практике. Теперь другими глазами смотрю фильмы, считываю не только сюжет , но и могу оценить работу режиссера, оператора, монтажера и т.д. Спасибо! */
 
-position: absolute;
-width: 700px;
-height: 203px;
-left: 170px;
-top: 4883px;
+    position: absolute;
+    width: 700px;
+    height: 203px;
+    left: 170px;
+    top: 4883px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 150%;
-/* or 30px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.zzzz{
+
+.zzzz {
     /* 1 9 */
 
-position: absolute;
-width: 190px;
-height: 169px;
-left: 151px;
-top: 5096px;
+    position: absolute;
+    width: 190px;
+    height: 169px;
+    left: 151px;
+    top: 5096px;
 
-background: url(1.png);
+    background: url(1.png);
 
 }
-.wwww{
+
+.wwww {
     /* Екатерина Палехова */
 
-position: absolute;
-width: 353px;
-height: 59px;
-left: 371px;
-top: 5136px;
+    position: absolute;
+    width: 353px;
+    height: 59px;
+    left: 371px;
+    top: 5136px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 101.38%;
-/* or 30px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 101.38%;
+    /* or 30px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.ssss{
+
+.ssss {
     /* fb_2 1 */
 
-position: absolute;
-width: 32px;
-height: 31px;
-left: 371px;
-top: 5195px;
+    position: absolute;
+    width: 32px;
+    height: 31px;
+    left: 371px;
+    top: 5195px;
 
-background: url(fb_2.png);
+    background: url(fb_2.png);
 
 }
-.container{
+
+.container {
     /* Rectangle 23 */
 
-position: absolute;
-width: 1440px;
-height: 780px;
-left: -1px;
-top: 5405px;
+    position: absolute;
+    width: 1440px;
+    height: 780px;
+    left: -1px;
+    top: 5405px;
 
-background: #9DC9C8;
+    background: #9DC9C8;
 
 }
-.ee{
+
+.ee {
     /* Начало курса — 8 сентября */
 
-position: absolute;
-width: 908px;
-height: 66px;
-left: 121px;
-top: 5584px;
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    left: 121px;
+    top: 5584px;
 
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 101.38%;
-/* or 56px */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.uu{
+
+.uu {
     /* Стоимость */
 
-position: absolute;
-width: 170px;
-height: 32px;
-left: 121px;
-top: 5704px;
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    left: 121px;
+    top: 5704px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 101.38%;
-/* or 25px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.oo{
+
+.oo {
     /* 3900 руб. */
 
-position: absolute;
-width: 481px;
-height: 181px;
-left: 121px;
-top: 5734px;
+    position: absolute;
+    width: 481px;
+    height: 181px;
+    left: 121px;
+    top: 5734px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 80px;
-line-height: 101.38%;
-/* or 81px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101.38%;
+    /* or 81px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.pp{
+
+.pp {
     /* Для любого уровня */
 
-position: absolute;
-width: 294px;
-height: 32px;
-left: 121px;
-top: 5889px;
+    position: absolute;
+    width: 294px;
+    height: 32px;
+    left: 121px;
+    top: 5889px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 101.38%;
-/* or 25px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.ll{
+
+.ll {
     /* Курс подходит и тем, кто начинает «с нуля», и тем, кто хочет упорядочить имеющиеся знания. */
 
-position: absolute;
-width: 294px;
-height: 70px;
-left: 121px;
-top: 5930px;
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 121px;
+    top: 5930px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 101.38%;
-/* or 18px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.mm{
+
+.mm {
     /* Проходите сейчас */
 
-position: absolute;
-width: 322px;
-height: 32px;
-left: 485px;
-top: 5889px;
+    position: absolute;
+    width: 322px;
+    height: 32px;
+    left: 485px;
+    top: 5889px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 101.38%;
-/* or 25px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.nn{
+
+.nn {
     /* Если вы не успели на вебинар, всегда можете посмотреть запись в личном кабинете */
 
-position: absolute;
-width: 294px;
-height: 70px;
-left: 485px;
-top: 5930px;
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    left: 485px;
+    top: 5930px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 101.38%;
-/* or 18px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
 
-color: #000000;
+    color: #000000;
 
 
 }
-.containertwo{
+
+.containertwo {
     /* Rectangle 24 */
 
-position: absolute;
-width: 1440px;
-height: 390px;
-left: -1px;
-top: 6185px;
+    position: absolute;
+    width: 1440px;
+    height: 390px;
+    left: -1px;
+    top: 6185px;
 
-background: #000000;
-
+    background: #000000;
 }
-.ab{
+
+
+.ab {
     /* logo_mobile_white 1 */
 
-position: absolute;
-width: 115px;
-height: 68px;
-left: 121px;
-top: 6235px;
+    position: absolute;
+    width: 115px;
+    height: 68px;
+    left: 121px;
+    top: 6235px;
 
-background: url(logo_mobile_white.png);
+    background: url(logo_mobile_white.png);
 
 }
-.ba{
+
+.ba {
     /* noroot(4) */
 
-position: absolute;
-width: 33px;
-height: 33px;
-left: 121px;
-top: 6333px;
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    left: 121px;
+    top: 6333px;
 
 
 
 }
-.ca{
+
+.ca {
     /* fb */
 
-position: absolute;
-width: 32px;
-height: 32px;
-left: 172px;
-top: 6333px;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 172px;
+    top: 6333px;
 
-background: url(fb.png);
+    background: url(fb.png);
 
 }
-.da{
+
+.da {
     /* 25684 1 */
 
-position: absolute;
-width: 35px;
-height: 35px;
-left: 225px;
-top: 6331px;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 225px;
+    top: 6331px;
 
-background: url(25684.png);
+    background: url(25684.png);
 
 }
-.sat{
+
+.sat {
     /* noroot(2) */
 
-position: absolute;
-width: 34px;
-height: 34px;
-left: 285px;
-top: 6332px;
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 285px;
+    top: 6332px;
 
 
 
 }
-.atda{
+
+.atda {
     /* © Синхронизация, 2020 */
 
-position: absolute;
-width: 230px;
-height: 40px;
-left: 121px;
-top: 6512px;
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 121px;
+    top: 6512px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 101.38%;
-/* or 18px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 101.38%;
+    /* or 18px */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
 }
-.yaxsi{
+
+.yaxsi {
     /* +7 (499) 39-146-39 */
 
-position: absolute;
-width: 230px;
-height: 40px;
-left: 1024px;
-top: 6244px;
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    left: 1024px;
+    top: 6244px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 101.38%;
-/* or 25px */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
 }
-.tm{
-   /* hello@synchronize.ru */
 
-position: absolute;
-width: 269px;
-height: 40px;
-left: 1024px;
-top: 6287px;
+.tm {
+    /* hello@synchronize.ru */
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 101.38%;
-/* or 25px */
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    left: 1024px;
+    top: 6287px;
 
-color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 101.38%;
+    /* or 25px */
 
- 
+    color: #FFFFFF;
+
+
 }
-.qardas{
+
+.qardas {
     /* phone_white */
 
-position: absolute;
-width: 27px;
-height: 27px;
-left: 975px;
-top: 6239px;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 975px;
+    top: 6239px;
 
-background: url(phone_white.png);
+    background: url(phone_white.png);
 
 }
-.baci{
+
+.baci {
     /* mail_white */
 
-position: absolute;
-width: 27px;
-height: 18px;
-left: 975px;
-top: 6291px;
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    left: 975px;
+    top: 6291px;
 
-background: url(mail_white.png);
+    background: url(mail_white.png);
 
 }
-@media screen and ( min-width:992px) and ( max-width:1279px){
-    .zero{
-        /* logo_mobile_black 1 */
 
-
-width: 64.87px;
-height: 38.23px;
-left: 70.08px;
-top: 22px;
-
-background: url(logo_mobile_black.png);
-
+@media screen and (min-width:992px) and (max-width:1279px) {
+    body{
+        background-color: red;
     }
-    .two{
-        /* globe */
+   
 
-
-width: 12.74px;
-height: 12.16px;
-left: 70.08px;
-top: 116.4px;
-
-background: url(globe);
-
-    }
-    .one{
-        /* онлайн-курс */
-
-
-width: 75.29px;
-height: 18.53px;
-left: 87.45px;
-top: 118.14px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 115%;
-/* or 14px */
-
-color: #000000;
-
-
-    }
-    .three{
-        /* img_135744 */
-
-width: 12.74px;
-height: 12.74px;
-left: 177.23px;
-top: 115.83px;
-
-background: url(img_135744);
-
-    }
-    .four{
-        /* 18 часов */
-
-
-width: 75.29px;
-height: 18.53px;
-left: 195.76px;
-top: 118.14px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 115%;
-/* or 14px */
-
-color: #000000;
-
-
-    }
-    .five{
-        /* calendar_2 */
-
-
-width: 11.58px;
-height: 12.74px;
-left: 270.47px;
-top: 115.83px;
-
-background: url(calendar_2);
-
-    }
-    .six{
-        /* 8 сентября */
-
-
-width: 75.29px;
-height: 18.53px;
-left: 289.58px;
-top: 118.14px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 115%;
-/* or 14px */
-
-color: #000000;
-
-
-    }
-    .seven{
-        /* Как смотреть кино */
-
-
-width: 363.72px;
-height: 110.04px;
-left: 70.66px;
-top: 144.2px;
-
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 700;
-font-size: 46px;
-line-height: 101.38%;
-/* or 47px */
-
-color: #000000;
-
-
-    }
-    .eight{
-        /* За 8 занятий станем активными зрителями и разберёмся в кинопроцессе */
-
-
-width: 264px;
-height: 36px;
-left: 71px;
-top: 257px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 150%;
-/* or 18px */
-
-color: #000000;
-
-
-    }
-    .nine{
-        /* noroot 1 */
-
-
-width: 176.07px;
-height: 206.18px;
-left: 515.46px;
-top: 138.99px;
-
-background: url(noroot.png);
-
-    }
-    .ten{
-        width: 249.38px;
-height: 65.45px;
-left: 252.18px;
-top: 407.08px;
-
-font-family: 'Roboto Slab';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 130%;
+  
 
 
 
-    }
+
+
+
+
 }
