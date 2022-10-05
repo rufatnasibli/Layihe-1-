@@ -2822,3 +2822,101 @@ background: url(mail_white.png);
 
 }
 
+@media screen and (max-width:991px) and (min-width:320px){
+  .zero{
+    /* logo_mobile_black 1 */
+
+position: absolute;
+width: 52.19px;
+height: 30.75px;
+left: 35px;
+top: 36px;
+
+background: url(logo_mobile_black.png);
+
+  } 
+  .two{
+    /* globe */
+
+position: absolute;
+width: 10.25px;
+height: 9.79px;
+left: 35px;
+top: 111.95px;
+
+background: url(globe);
+
+  }
+  .one{
+    /* онлайн-курс */
+
+position: absolute;
+width: 60.58px;
+height: 14.91px;
+left: 48.98px;
+top: 111.35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 115%;
+/* or 11px */
+
+color: #000000;
+
+
+  }
+  .three{
+    /* img_135744 */
+
+position: absolute;
+width: 10.25px;
+height: 10.25px;
+left: 121.21px;
+top: 111.49px;
+
+background: url(img_135744);
+
+  }
+  .four{
+    /* 18 часов */
+
+position: absolute;
+width: 60.58px;
+height: 14.91px;
+left: 136.12px;
+top: 111.35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 115%;
+/* or 11px */
+
+color: #000000;
+
+
+  }
+  .five{
+    /* calendar_2 */
+
+position: absolute;
+width: 9.32px;
+height: 10.25px;
+left: 196.23px;
+top: 111.49px;
+
+background: url(calendar_2);
+
+  }
+
+
+
+
+
+
+
+
+}
