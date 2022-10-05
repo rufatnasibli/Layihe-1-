@@ -1392,3 +1392,179 @@ top: 6291px;
 background: url(mail_white.png);
 
 }
+@media screen and ( min-width:992px) and ( max-width:1279px){
+    .zero{
+        /* logo_mobile_black 1 */
+
+
+width: 64.87px;
+height: 38.23px;
+left: 70.08px;
+top: 22px;
+
+background: url(logo_mobile_black.png);
+
+    }
+    .two{
+        /* globe */
+
+
+width: 12.74px;
+height: 12.16px;
+left: 70.08px;
+top: 116.4px;
+
+background: url(globe);
+
+    }
+    .one{
+        /* онлайн-курс */
+
+
+width: 75.29px;
+height: 18.53px;
+left: 87.45px;
+top: 118.14px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 115%;
+/* or 14px */
+
+color: #000000;
+
+
+    }
+    .three{
+        /* img_135744 */
+
+width: 12.74px;
+height: 12.74px;
+left: 177.23px;
+top: 115.83px;
+
+background: url(img_135744);
+
+    }
+    .four{
+        /* 18 часов */
+
+
+width: 75.29px;
+height: 18.53px;
+left: 195.76px;
+top: 118.14px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 115%;
+/* or 14px */
+
+color: #000000;
+
+
+    }
+    .five{
+        /* calendar_2 */
+
+
+width: 11.58px;
+height: 12.74px;
+left: 270.47px;
+top: 115.83px;
+
+background: url(calendar_2);
+
+    }
+    .six{
+        /* 8 сентября */
+
+
+width: 75.29px;
+height: 18.53px;
+left: 289.58px;
+top: 118.14px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 115%;
+/* or 14px */
+
+color: #000000;
+
+
+    }
+    .seven{
+        /* Как смотреть кино */
+
+
+width: 363.72px;
+height: 110.04px;
+left: 70.66px;
+top: 144.2px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 101.38%;
+/* or 47px */
+
+color: #000000;
+
+
+    }
+    .eight{
+        /* За 8 занятий станем активными зрителями и разберёмся в кинопроцессе */
+
+
+width: 264px;
+height: 36px;
+left: 71px;
+top: 257px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+
+color: #000000;
+
+
+    }
+    .nine{
+        /* noroot 1 */
+
+
+width: 176.07px;
+height: 206.18px;
+left: 515.46px;
+top: 138.99px;
+
+background: url(noroot.png);
+
+    }
+    .ten{
+        width: 249.38px;
+height: 65.45px;
+left: 252.18px;
+top: 407.08px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 130%;
+
+
+
+    }
+}
